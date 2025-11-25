@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gma1k/snake-ebpf">
-    <img src="https://github.com/gma1k/snake-ebpf/blob/main/assets/snake-ebpf.png" width="420" alt="podtrace logo"/>
+    <img src="https://github.com/gma1k/snake-ebpf/blob/main/assets/snake-ebpf.png" width="420" alt="snake-ebpf logo"/>
   </a>
 </p>
 
