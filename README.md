@@ -65,7 +65,7 @@ sudo ./snake-ebpf
 - **Arrow Keys** or **W/A/S/D** - Move the snake
 - **Q** or **Ctrl+C** - Quit the game
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/gma1k/snake-ebpf">
     <img src="https://github.com/gma1k/snake-ebpf/blob/main/assets/snake-ebpf.gif" width="780" alt="snake-ebpf gif"/>
   </a>
