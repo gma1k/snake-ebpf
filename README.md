@@ -65,6 +65,12 @@ sudo ./snake-ebpf
 - **Arrow Keys** or **W/A/S/D** - Move the snake
 - **Q** or **Ctrl+C** - Quit the game
 
+<p align="left">
+  <a href="https://github.com/gma1k/snake-ebpf">
+    <img src="https://github.com/gma1k/snake-ebpf/blob/main/assets/snake-ebpf.gif" width="780" alt="snake-ebpf gif"/>
+  </a>
+</p>
+
 ## 🔧 How It Works
 
 This project demonstrates the power of eBPF by combining kernel tracing with a classic game. The game uses 6 different eBPF kprobes to track system events in real-time, influencing gameplay mechanics.
@@ -198,7 +204,7 @@ Every game tick (~350ms), Go reads all eBPF metrics and uses them for:
 
 ## 💡 Why This Project?
 
-This is a hobby project born from curiosity about eBPF and nostalgia for classic games. eBPF is incredibly powerful, it's used in production systems for monitoring, security, networking, and more. But it can also be fun! This project shows that kernel programming doesn't have to be intimidating, and sometimes the best way to learn is by building something you enjoy.
+This is a hobby project born from curiosity about eBPF and nostalgia for classic games. eBPF is incredibly powerful, it's used for monitoring, security, networking, and more. But it can also be fun! This project shows that kernel programming doesn't have to be intimidating, and sometimes the best way to learn is by building something you enjoy.
 
 ## 🤝 Contributing
 
