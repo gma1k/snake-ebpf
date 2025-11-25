@@ -179,7 +179,7 @@ Every game tick (~350ms), Go reads all eBPF metrics and uses them for:
 │        - More file ops = food spawns faster             │
 │        - Go calls game.spawnFood() when interval passes │
 │                                                         │
-│     B. SPEED CALCULATION:                 │
+│     B. SPEED CALCULATION:                               │
 │        - Base: 350ms                                    │
 │        - Score: -1ms per food (Go)                      │
 │        - Execve: -0.5ms per execve (eBPF)               │
